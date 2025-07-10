@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on: [Placement Tracker](https://github.com/raianurag18/placement-tracker)
 - 🌱 Learning: Full-stack Web Dev, DSA (C++), Git & GitHub
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/raianurag18/) | [Email](mailto:your.email@example.com)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/raianurag18/) | [Email](anuragrai211004@gmail.com)
 
 ---
 
